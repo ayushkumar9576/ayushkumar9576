@@ -74,9 +74,9 @@
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushkumar9576&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkumar9576&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -86,22 +86,6 @@
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ayushkumar9576&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ayushkumar9576&theme=tokyonight&margin-w=15&margin-h=15&column=4" />
-</p>
-
----
-
-## 💻 Coding Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushkumar9576&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
